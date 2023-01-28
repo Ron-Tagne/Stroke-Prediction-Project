@@ -4,7 +4,7 @@
 Installation of Python 3.10. 4, Numpy, Pandas, Matplotlib, Seaborn, and Scikit Learn libraries are sufficient to run the codes in the notebook.
 
 ## 2. **Project Motivation**
-I was interested in creating a predictive model that could predict the likelihood of someone having Diabetes Mellitus (DM). From a public health lens, creating such a model can be used to identify populations that are at high risk of getting DM so that preventative measures can be taken to reduce the incidence of the disease in those populations.
+I was interested in creating a predictive model that could predict the likelihood of someone having a stroke.
 
 ## 3. **Data Source**
 
